@@ -45,20 +45,15 @@ font-family: 'Edu NSW ACT Foundation', cursive;
     /* padding: 25%; */
     font-size: 60px;
     /* color: white; */
-    opacity: 0.8;
+    opacity: 0.9;
 } 
 
-#about h1{
+.heading{
     /* background-color: ; */
     font-family: 'Alkatra', cursive !important;
     font-size: 35px;
 }
-#about p{
+.para{
     font-size: 25px;
-}
-#education h1{
-    /* background-color: ; */
-    font-family: 'Alkatra', cursive !important;
-    font-size: 35px;
 }
 /* #education p{} */
