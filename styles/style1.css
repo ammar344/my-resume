@@ -15,10 +15,10 @@ body{
 font-family: 'Edu NSW ACT Foundation', cursive;
     /* font-family: 'Alkatra', cursive; */
     /* max-width: 90vw; */
+    min-height: 100vh;
 }
 .home{
     background-image: url(../assets/images/background.jpg);
-    background-color: black;
         /* margin: 0;
     padding: 0;
     /* min-width: 100vw; */
